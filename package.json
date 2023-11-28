@@ -1,0 +1,19 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Tabnews clone built during the curso.dev lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leowndev/clone-tabnews.git"
+  },
+  "author": "leowndev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leowndev/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/leowndev/clone-tabnews#readme"
+}
