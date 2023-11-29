@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leowndev/clone-tabnews/issues"
   },
-  "homepage": "https://github.com/leowndev/clone-tabnews#readme"
+  "homepage": "https://github.com/leowndev/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6"
+  }
 }
