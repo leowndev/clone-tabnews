@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/leowndev/clone-tabnews#readme",
   "dependencies": {
-    "next": "^13.1.6"
+    "next": "^13.1.6",
+    "react": "^18.2.0"
   }
 }
